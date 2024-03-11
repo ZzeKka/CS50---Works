@@ -1,0 +1,3 @@
+Probably a person with a neutral mood, who likes to dance and move a lot.
+Because those variables are to little to draw a decent conclusion, it also doesnt take into account the weigth (how many times a songs is listened) by each song.
+Also their spotify account can be used by more than one person.
