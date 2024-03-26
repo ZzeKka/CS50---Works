@@ -1,0 +1,27 @@
+HTML tags:
+<h1>
+<div>
+<input>
+<ol>
+<ul>
+<li>
+<dl>
+<p>
+<a>
+<button>
+
+CSS properties:
+font-size
+margin
+background-color
+color
+font-weight
+
+JS:
+Java script introducion one new paragraph upon clicking on the YES button, Bootstrap ajust a list.
+
+
+
+
+
+
